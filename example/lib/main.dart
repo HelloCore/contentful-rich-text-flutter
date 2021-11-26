@@ -1,6 +1,7 @@
 import 'package:contentful_rich_text/contentful_rich_text.dart';
-import 'package:example/contentful_data.dart';
 import 'package:flutter/material.dart';
+
+import 'contentful_data.dart';
 
 void main() => runApp(MyApp());
 
