@@ -24,6 +24,9 @@ class ContentfulData {
                 "marks": [
                   {
                     "type": "bold"
+                  },
+                  {
+                    "type": "italic"
                   }
                 ],
                 "value": "Hyperlink",
